@@ -1,3 +1,3 @@
 # this is a tryout 
 
-print('hello world')
+print('hello fire')
